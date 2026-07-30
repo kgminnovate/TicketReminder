@@ -1,1 +1,72 @@
-
+{
+  "last_updated": "2026-07-30",
+  "version": "1.0.0",
+  "topics": [
+    {
+      "id": "cancellation_rules",
+      "title": "Cancellation & Refund Rules",
+      "file": "cancellation_rules.md",
+      "icon": "ic_cancel"
+    },
+    {
+      "id": "reservation_types",
+      "title": "Reservation Types & Quotas",
+      "file": "reservation_types.md",
+      "icon": "ic_book"
+    },
+    {
+      "id": "chart_preparation",
+      "title": "Chart Preparation Timing",
+      "file": "chart_preparation.md",
+      "icon": "ic_time"
+    },
+    {
+      "id": "tatkal_tips",
+      "title": "Tatkal Booking Tips & Tricks",
+      "file": "tatkal_tips.md",
+      "icon": "ic_star"
+    },
+    {
+      "id": "eq_and_quotas",
+      "title": "Emergency Quota (EQ) & Allocations",
+      "file": "eq_and_quotas.md",
+      "icon": "ic_verified"
+    },
+    {
+      "id": "auto_upgradation",
+      "title": "Auto Upgradation Scheme",
+      "file": "auto_upgradation.md",
+      "icon": "ic_upgrade"
+    },
+    {
+      "id": "rac_rules",
+      "title": "RAC (Reservation Against Cancellation)",
+      "file": "rac_rules.md",
+      "icon": "ic_airline_seat"
+    },
+    {
+      "id": "age_and_child_rules",
+      "title": "Child Fare & Age Rules",
+      "file": "age_and_child_rules.md",
+      "icon": "ic_child"
+    },
+    {
+      "id": "senior_citizen",
+      "title": "Senior Citizen Rules & Facilities",
+      "file": "senior_citizen.md",
+      "icon": "ic_elderly"
+    },
+    {
+      "id": "tdr_and_refunds",
+      "title": "TDR Filing & Refund Matrix",
+      "file": "tdr_and_refunds.md",
+      "icon": "ic_monetization"
+    },
+    {
+      "id": "vikalp_scheme",
+      "title": "VIKALP Scheme (Alternate Train)",
+      "file": "vikalp_scheme.md",
+      "icon": "ic_swap"
+    }
+  ]
+}
