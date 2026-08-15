@@ -1,1 +1,560 @@
-
+[
+  {
+    "date": "01/01/2026",
+    "name": "New Year's Day",
+    "state": "Tamil Nadu",
+    "type": "State holiday"
+  },
+  {
+    "date": "01/01/2026",
+    "name": "New Year's Day",
+    "state": "Arunachal Pradesh",
+    "type": "State holiday"
+  },
+  {
+    "date": "01/01/2026",
+    "name": "New Year's Day",
+    "state": "Meghalaya",
+    "type": "State holiday"
+  },
+  {
+    "date": "01/01/2026",
+    "name": "New Year's Day",
+    "state": "Mizoram",
+    "type": "State holiday"
+  },
+  {
+    "date": "01/01/2026",
+    "name": "New Year's Day",
+    "state": "Nagaland",
+    "type": "State holiday"
+  },
+  {
+    "date": "01/01/2026",
+    "name": "New Year's Day",
+    "state": "Puducherry",
+    "type": "State holiday"
+  },
+  {
+    "date": "01/01/2026",
+    "name": "New Year's Day",
+    "state": "Rajasthan",
+    "type": "State holiday"
+  },
+  {
+    "date": "01/01/2026",
+    "name": "New Year's Day",
+    "state": "Sikkim",
+    "type": "State holiday"
+  },
+  {
+    "date": "01/01/2026",
+    "name": "New Year's Day",
+    "state": "Telangana",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/01/2026",
+    "name": "Makar Sankranti / Pongal",
+    "state": "Tamil Nadu",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/01/2026",
+    "name": "Makar Sankranti / Pongal",
+    "state": "Andhra Pradesh",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/01/2026",
+    "name": "Makar Sankranti / Pongal",
+    "state": "Gujarat",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/01/2026",
+    "name": "Makar Sankranti / Pongal",
+    "state": "Karnataka",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/01/2026",
+    "name": "Makar Sankranti / Pongal",
+    "state": "Puducherry",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/01/2026",
+    "name": "Makar Sankranti / Pongal",
+    "state": "Telangana",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/01/2026",
+    "name": "Makar Sankranti / Pongal",
+    "state": "Assam",
+    "type": "State holiday"
+  },
+  {
+    "date": "15/01/2026",
+    "name": "Thiruvalluvar Day",
+    "state": "Tamil Nadu",
+    "type": "State holiday"
+  },
+  {
+    "date": "16/01/2026",
+    "name": "Uzhavar Thirunal",
+    "state": "Tamil Nadu",
+    "type": "State holiday"
+  },
+  {
+    "date": "23/01/2026",
+    "name": "Vasant Panchami",
+    "state": "West Bengal",
+    "type": "State holiday"
+  },
+  {
+    "date": "23/01/2026",
+    "name": "Vasant Panchami",
+    "state": "Odisha",
+    "type": "State holiday"
+  },
+  {
+    "date": "23/01/2026",
+    "name": "Vasant Panchami",
+    "state": "Haryana",
+    "type": "State holiday"
+  },
+  {
+    "date": "23/01/2026",
+    "name": "Vasant Panchami",
+    "state": "Tripura",
+    "type": "State holiday"
+  },
+  {
+    "date": "26/01/2026",
+    "name": "Republic Day",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "01/02/2026",
+    "name": "Thaipoosam",
+    "state": "Tamil Nadu",
+    "type": "State holiday"
+  },
+  {
+    "date": "01/02/2026",
+    "name": "Guru Ravidas Jayanti",
+    "state": "Punjab",
+    "type": "State holiday"
+  },
+  {
+    "date": "01/02/2026",
+    "name": "Guru Ravidas Jayanti",
+    "state": "Haryana",
+    "type": "State holiday"
+  },
+  {
+    "date": "01/02/2026",
+    "name": "Guru Ravidas Jayanti",
+    "state": "Himachal Pradesh",
+    "type": "State holiday"
+  },
+  {
+    "date": "01/02/2026",
+    "name": "Guru Ravidas Jayanti",
+    "state": "Madhya Pradesh",
+    "type": "State holiday"
+  },
+  {
+    "date": "15/02/2026",
+    "name": "Maha Shivaratri",
+    "state": "All India (Central)",
+    "type": "Restricted/State holiday"
+  },
+  {
+    "date": "19/02/2026",
+    "name": "Chhatrapati Shivaji Jayanti",
+    "state": "Maharashtra",
+    "type": "State holiday"
+  },
+  {
+    "date": "03/03/2026",
+    "name": "Holika Dahan / Doljatra",
+    "state": "Uttar Pradesh",
+    "type": "State holiday"
+  },
+  {
+    "date": "03/03/2026",
+    "name": "Holika Dahan / Doljatra",
+    "state": "Rajasthan",
+    "type": "State holiday"
+  },
+  {
+    "date": "03/03/2026",
+    "name": "Holika Dahan / Doljatra",
+    "state": "Madhya Pradesh",
+    "type": "State holiday"
+  },
+  {
+    "date": "03/03/2026",
+    "name": "Holika Dahan / Doljatra",
+    "state": "West Bengal",
+    "type": "State holiday"
+  },
+  {
+    "date": "04/03/2026",
+    "name": "Holi",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "19/03/2026",
+    "name": "Telugu New Year's Day / Ugadi / Gudi Padwa",
+    "state": "Tamil Nadu",
+    "type": "State holiday"
+  },
+  {
+    "date": "19/03/2026",
+    "name": "Telugu New Year's Day / Ugadi / Gudi Padwa",
+    "state": "Andhra Pradesh",
+    "type": "State holiday"
+  },
+  {
+    "date": "19/03/2026",
+    "name": "Telugu New Year's Day / Ugadi / Gudi Padwa",
+    "state": "Telangana",
+    "type": "State holiday"
+  },
+  {
+    "date": "19/03/2026",
+    "name": "Telugu New Year's Day / Ugadi / Gudi Padwa",
+    "state": "Karnataka",
+    "type": "State holiday"
+  },
+  {
+    "date": "19/03/2026",
+    "name": "Telugu New Year's Day / Ugadi / Gudi Padwa",
+    "state": "Maharashtra",
+    "type": "State holiday"
+  },
+  {
+    "date": "19/03/2026",
+    "name": "Telugu New Year's Day / Ugadi / Gudi Padwa",
+    "state": "Goa",
+    "type": "State holiday"
+  },
+  {
+    "date": "19/03/2026",
+    "name": "Telugu New Year's Day / Ugadi / Gudi Padwa",
+    "state": "Gujarat",
+    "type": "State holiday"
+  },
+  {
+    "date": "21/03/2026",
+    "name": "Id-ul-Fitr (Ramzan)",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "26/03/2026",
+    "name": "Ram Navami",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "31/03/2026",
+    "name": "Mahavir Jayanti",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "03/04/2026",
+    "name": "Good Friday",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "05/04/2026",
+    "name": "Easter Sunday",
+    "state": "Kerala",
+    "type": "State holiday"
+  },
+  {
+    "date": "05/04/2026",
+    "name": "Easter Sunday",
+    "state": "Nagaland",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/04/2026",
+    "name": "Tamil New Year / Dr. B.R. Ambedkar Jayanti / Vishu / Vaisakhi",
+    "state": "Tamil Nadu",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/04/2026",
+    "name": "Tamil New Year / Dr. B.R. Ambedkar Jayanti / Vishu / Vaisakhi",
+    "state": "Punjab",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/04/2026",
+    "name": "Tamil New Year / Dr. B.R. Ambedkar Jayanti / Vishu / Vaisakhi",
+    "state": "Kerala",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/04/2026",
+    "name": "Tamil New Year / Dr. B.R. Ambedkar Jayanti / Vishu / Vaisakhi",
+    "state": "West Bengal",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/04/2026",
+    "name": "Tamil New Year / Dr. B.R. Ambedkar Jayanti / Vishu / Vaisakhi",
+    "state": "Tripura",
+    "type": "State holiday"
+  },
+  {
+    "date": "15/04/2026",
+    "name": "Bohag Bihu / Pohela Boishakh",
+    "state": "Assam",
+    "type": "State holiday"
+  },
+  {
+    "date": "15/04/2026",
+    "name": "Bohag Bihu / Pohela Boishakh",
+    "state": "West Bengal",
+    "type": "State holiday"
+  },
+  {
+    "date": "01/05/2026",
+    "name": "May Day / Buddha Purnima",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "09/05/2026",
+    "name": "Rabindranath Tagore Jayanti",
+    "state": "West Bengal",
+    "type": "State holiday"
+  },
+  {
+    "date": "09/05/2026",
+    "name": "Rabindranath Tagore Jayanti",
+    "state": "Tripura",
+    "type": "State holiday"
+  },
+  {
+    "date": "27/05/2026",
+    "name": "Id-ul-Zuha (Bakrid)",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "26/06/2026",
+    "name": "Muharram",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "16/07/2026",
+    "name": "Rath Yatra",
+    "state": "Odisha",
+    "type": "State holiday"
+  },
+  {
+    "date": "15/08/2026",
+    "name": "Independence Day",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "26/08/2026",
+    "name": "Milad-un-Nabi (Prophet's Birthday) / Thiruvonam",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "28/08/2026",
+    "name": "Raksha Bandhan",
+    "state": "Gujarat",
+    "type": "State holiday"
+  },
+  {
+    "date": "28/08/2026",
+    "name": "Raksha Bandhan",
+    "state": "Rajasthan",
+    "type": "State holiday"
+  },
+  {
+    "date": "28/08/2026",
+    "name": "Raksha Bandhan",
+    "state": "Uttar Pradesh",
+    "type": "State holiday"
+  },
+  {
+    "date": "28/08/2026",
+    "name": "Raksha Bandhan",
+    "state": "Madhya Pradesh",
+    "type": "State holiday"
+  },
+  {
+    "date": "28/08/2026",
+    "name": "Raksha Bandhan",
+    "state": "Uttarakhand",
+    "type": "State holiday"
+  },
+  {
+    "date": "04/09/2026",
+    "name": "Krishna Jayanthi / Janmashtami",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "14/09/2026",
+    "name": "Vinayakar Chathurthi / Ganesh Chaturthi",
+    "state": "Tamil Nadu",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/09/2026",
+    "name": "Vinayakar Chathurthi / Ganesh Chaturthi",
+    "state": "Maharashtra",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/09/2026",
+    "name": "Vinayakar Chathurthi / Ganesh Chaturthi",
+    "state": "Karnataka",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/09/2026",
+    "name": "Vinayakar Chathurthi / Ganesh Chaturthi",
+    "state": "Telangana",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/09/2026",
+    "name": "Vinayakar Chathurthi / Ganesh Chaturthi",
+    "state": "Andhra Pradesh",
+    "type": "State holiday"
+  },
+  {
+    "date": "14/09/2026",
+    "name": "Vinayakar Chathurthi / Ganesh Chaturthi",
+    "state": "Goa",
+    "type": "State holiday"
+  },
+  {
+    "date": "02/10/2026",
+    "name": "Mahatma Gandhi's Birthday",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "18/10/2026",
+    "name": "Maha Saptami",
+    "state": "West Bengal",
+    "type": "State holiday"
+  },
+  {
+    "date": "18/10/2026",
+    "name": "Maha Saptami",
+    "state": "Odisha",
+    "type": "State holiday"
+  },
+  {
+    "date": "18/10/2026",
+    "name": "Maha Saptami",
+    "state": "Assam",
+    "type": "State holiday"
+  },
+  {
+    "date": "18/10/2026",
+    "name": "Maha Saptami",
+    "state": "Tripura",
+    "type": "State holiday"
+  },
+  {
+    "date": "19/10/2026",
+    "name": "Ayutha Pooja / Maha Navami",
+    "state": "Tamil Nadu",
+    "type": "State holiday"
+  },
+  {
+    "date": "19/10/2026",
+    "name": "Ayutha Pooja / Maha Navami",
+    "state": "Karnataka",
+    "type": "State holiday"
+  },
+  {
+    "date": "19/10/2026",
+    "name": "Ayutha Pooja / Maha Navami",
+    "state": "Andhra Pradesh",
+    "type": "State holiday"
+  },
+  {
+    "date": "20/10/2026",
+    "name": "Vijaya Dasami / Dussehra",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "08/11/2026",
+    "name": "Deepavali (Diwali)",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "09/11/2026",
+    "name": "Vikram Samvat New Year / Govardhan Puja",
+    "state": "Gujarat",
+    "type": "State holiday"
+  },
+  {
+    "date": "09/11/2026",
+    "name": "Vikram Samvat New Year / Govardhan Puja",
+    "state": "Maharashtra",
+    "type": "State holiday"
+  },
+  {
+    "date": "09/11/2026",
+    "name": "Vikram Samvat New Year / Govardhan Puja",
+    "state": "Uttar Pradesh",
+    "type": "State holiday"
+  },
+  {
+    "date": "15/11/2026",
+    "name": "Chhath Puja",
+    "state": "Bihar",
+    "type": "State holiday"
+  },
+  {
+    "date": "15/11/2026",
+    "name": "Chhath Puja",
+    "state": "Jharkhand",
+    "type": "State holiday"
+  },
+  {
+    "date": "15/11/2026",
+    "name": "Chhath Puja",
+    "state": "Uttar Pradesh",
+    "type": "State holiday"
+  },
+  {
+    "date": "24/11/2026",
+    "name": "Guru Nanak's Birthday",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  },
+  {
+    "date": "25/12/2026",
+    "name": "Christmas Day",
+    "state": "All India (Central)",
+    "type": "National holiday"
+  }
+]
